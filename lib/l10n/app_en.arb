@@ -1,0 +1,10 @@
+{
+  "appName": "ExerciseTask",
+  "equipmentNameBodyweight" : "Bodyweight",
+  "equipmentNameDumbbells" : "Dumbbells",
+  "equipmentNameBands" : "Bands",
+  "button1Text" : "Show Loader",
+  "button2Text" : "Show Snackbar",
+  "failedToUpdateEquipment" : "Failed to select your equipment",
+  "button2Snackbar" : "Button 2 has been tapped"
+}
